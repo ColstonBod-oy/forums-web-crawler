@@ -1,2 +1,2 @@
 # forums-web-crawler
-A sample web crawler that collects topics from Reddit, 4chan, and Quora
+A sample web crawler that collects topics from the following Internet forums: [/x/ - Paranormal - 4chan](https://boards.4chan.org/x/), [All Topics - Questions on Blurtit](https://www.blurtit.com/topics), and [Darknetlive](https://darknetlive.com/) using the [Beatiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/) Python library. 
